@@ -18,6 +18,6 @@ A problem when downloading data from the Binance exchange is the limit of 1500 b
 
 ## Images
 
-Example of TRXUSDT asset data download and chart output from 2020 on 1h timeframe
+Example of TRXUSDT asset data download and chart output from 2020 on 1 hour time frame.
 
 ![newplot (6)](https://github.com/nonisich/Binance-Data-Downloader/assets/109261916/2a2b28d6-6a04-4f55-8593-80ead9ff6195)
