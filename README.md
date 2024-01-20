@@ -4,7 +4,7 @@ This code is a tool for downloading and visualizing historical data of cryptocur
 
 A problem when downloading data from the Binance exchange is the limit of 1500 bars for a single request. This tool effectively overcomes this limitation by allowing the user to select the desired timeframe and download data for, for example, 1, 2 or 3 years much more efficiently and quickly. The result is a ready-made dataframe with complete data obtained from the exchange.
 
-As an example of using this code, you can download the entire bitcoin history on a 5-minute timeframe for backtesting or analysis purposes
+As an example of using this code, you can download the entire bitcoin history on a 5-minute timeframe for backtesting or analysis data.
 
 ### Features
 
