@@ -1,4 +1,4 @@
-## Binance Data Downloader
+## Binance Data Downloader 
 
 This code is a tool for downloading and visualizing historical data of cryptocurrency pairs from the Binance exchange. The code allows the user to get candlestick data on selected trading pairs for an unlimited or specified period of time to build candlestick charts.
 
